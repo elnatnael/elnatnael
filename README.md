@@ -14,6 +14,7 @@ I have also completed the **ALX Backend Development Program**, which strengthene
 
 * Frontend Software Developer with a focus on React-based applications
 * ALX Backend Development Program graduate
+* ALX Professional Foundation Program graduate
 * Experienced in building user interfaces and connecting them with backend APIs
 * Interested in clean design, usability, performance, and practical software solutions
 * Comfortable working on frontend projects, full-stack prototypes, and API-based applications
