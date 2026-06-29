@@ -1,51 +1,168 @@
-## Hi there 👋
+# Hi, I'm Natnael Letibelu
 
-# Welcome to My GitHub Profile! 👋
+## Frontend Software Developer
+
+Welcome to my GitHub profile.
+
+I am a **Frontend Software Developer** focused on building clean, responsive, and user-friendly web applications. I enjoy turning ideas into practical digital products with strong attention to interface design, usability, and smooth user experience.
+
+I have also completed the **ALX Backend Development Program**, which strengthened my understanding of APIs, databases, authentication, and backend architecture. This helps me work more effectively on frontend projects that need strong integration with backend systems.
+
+---
 
 ## About Me
 
-Hello, I'm Natnael Letibelu, a passionate learner currently pursuing the **ALX Backend Development Program**. I specialize in backend technologies and am committed to mastering the skills required to build scalable, reliable, and efficient software. With a creative mindset and a drive to solve complex problems, I thrive in building software solutions that address real-world challenges.
+* Frontend Software Developer with a focus on React-based applications
+* ALX Backend Development Program graduate
+* Experienced in building user interfaces and connecting them with backend APIs
+* Interested in clean design, usability, performance, and practical software solutions
+* Comfortable working on frontend projects, full-stack prototypes, and API-based applications
 
-- 🎓 **Currently learning**: Backend Development, APIs, Databases, and more.
-- 💡 **Passion**: Building problem-solving applications and websites that have a meaningful impact.
-- 🚀 **Goal**: Master backend development skills and work on ambitious projects like the **Airbnb Clone**.
-- 🌍 **Ambition**: To contribute to global projects and work with innovative teams to push the boundaries of technology.
+---
 
-## My Skills
+## Technical Skills
 
-Here are some of the technologies I am working with:
+### Frontend Development
 
-- **Programming Languages**: Python, JavaScript, C#
-- **Backend Development**: https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip, Express, Django, Flask
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Version Control**: Git, GitHub
-- **Tools & Platforms**: Docker, AWS, Heroku, CI/CD pipelines
+* React
+* JavaScript
+* HTML
+* CSS
+* Responsive Web Design
+* UI/UX Design
+* Figma
 
-## Projects 🛠️
+### Backend Knowledge
 
-Here are some of the projects I’m working on or have worked on:
+* Django
+* Express.js
+* REST APIs
+* JWT Authentication
+* API Documentation
 
-### 1. **[Airbnb Clone Project](#)**  
-- A full-stack clone of Airbnb that replicates the essential features of the platform.
-- Technologies used: **https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip**, **Express**, **MongoDB**, **HTML/CSS**, **JavaScript**.
-- **Project Goal**: To practice building real-world web applications with a focus on backend development and database management.
+### Databases & Tools
 
-### 2. **[UI/UX Designer](#)**  
-- A Figma design for a  user interface of  a live  traffic congestion  app called "EMAP"
-- Technologies used: **[Figma]**.
+* PostgreSQL
+* Redis
+* Git
+* GitHub
+* Swagger / drf-yasg
+* TMDb API
+
+---
+
+## Projects
+
+### Travel Companion App
+
+A travel-focused web application built using **React** and **Express.js**. The project connects a frontend interface with backend API support to help users interact with travel-related information in a practical way.
+
+**Tech Stack:**
+
+* React
+* Express.js
+* JavaScript
+* REST APIs
+
+**Project Goal:**
+To build a full-stack travel application with a clean frontend interface and functional backend integration.
+
+---
+
+### EMAP — Traffic Congestion App UI/UX Design
+
+A UI/UX design project for a live traffic congestion application called **EMAP**.
+
+**Tool Used:**
+
+* Figma
+
+**Project Goal:**
+To design a clean and practical interface that helps users understand traffic conditions and navigate more efficiently.
+
+---
+
+### Movie Recommendation Backend — ProDev BE
+
+A backend system for a movie recommendation application, developed as part of backend-focused practice. The project focuses on secure authentication, API usability, performance, and external API integration.
+
+**Main Features:**
+
+* Secure user authentication using JWT
+* Movie recommendation APIs using TMDb
+* Favorite movie management
+* Redis caching for improved performance
+* Public API documentation using Swagger
+
+**Tech Stack:**
+
+* Django
+* PostgreSQL
+* Redis
+* Swagger / drf-yasg
+* TMDb API
+
+**Project Goal:**
+To build a reliable backend system that supports authentication, movie recommendations, caching, and clear API documentation for frontend use.
+
+---
+
+### Airbnb Clone Project
+
+A full-stack project inspired by Airbnb, focused on understanding how booking-based platforms are structured.
+
+**Project Focus:**
+
+* Frontend and backend structure
+* API logic
+* Database design
+* User and listing-related functionality
+
+### Digital School Assessment & Learning Platform
+
+A school management and learning platform designed for a high school to digitize the assessment and learning process. The project focuses on improving how students, teachers, and administrators manage learning activities, assessments, results, and academic progress.
+
+**Main Idea:**
+
+* Digitize student assessments and learning workflows
+* Help teachers manage evaluations more efficiently
+* Provide students with easier access to learning materials and results
+* Support a more organized and transparent academic process
+
+**Project Focus:**
+
+* Frontend interface design
+* User-friendly dashboards
+* Digital assessment flow
+* Learning process management
+* Practical use in a real school environment
+
+**Project Goal:**
+To build a practical digital education system that improves the learning experience and makes school assessment processes more efficient, accessible, and organized.
 
 
+**Project Goal:**
+To practice building a real-world web application structure and understand how frontend interfaces connect with backend systems.
 
-## Contributions
+---
 
-I am actively contributing to open-source projects and collaborating with other developers. Check out my **[Contributions](#)** for more!
+## Currently Focused On
+
+* Building stronger React and frontend development skills
+* Improving UI structure, responsiveness, and user experience
+* Creating frontend projects connected to real APIs
+* Developing practical applications with clean design and reliable functionality
+
+---
 
 ## Connect with Me
 
-I’m always open to collaborating on exciting projects or discussing new opportunities. Feel free to reach out to me through the following platforms:
+* Email: Meranat9104@gmail.com
+* LinkedIn: awww.linkedin.com/in/natnael-letibelu-265289282
 
-- **Email**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip]
-- **LinkedIn**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip]
-- **Twitter**: [https://raw.githubusercontent.com/elnatnael/elnatnael/main/overinsurance/Software_pencatite.zip](#)
 
-## Let's Build Something Amazing! 🌟
+---
+
+## Let's Build Clean and Useful Web Experiences
+
+I am open to collaboration, frontend development opportunities, and projects that combine clean design with practical software functionality.
