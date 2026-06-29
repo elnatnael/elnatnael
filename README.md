@@ -159,7 +159,7 @@ To practice building a real-world web application structure and understand how f
 ## Connect with Me
 
 * Email: Meranat9104@gmail.com
-* LinkedIn: awww.linkedin.com/in/natnael-letibelu-265289282
+* LinkedIn: www.linkedin.com/in/natnael-letibelu-265289282
 
 
 ---
